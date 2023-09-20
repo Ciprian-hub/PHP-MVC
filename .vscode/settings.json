@@ -1,0 +1,13 @@
+{
+    "editor.formatOnType": true,
+    "php.docblock.classSnippet": {
+        "@author": "Ciprian_V",
+        "@package": "$namespace",
+        "@copyright": "(c) $CURRENT_YEAR"
+    },
+    "php.suggest.basis": false,
+    "php.validate.enable": false,
+    "cSpell.words": [
+        "autoload"
+    ],
+}
