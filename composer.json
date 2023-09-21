@@ -1,5 +1,11 @@
 {
     "name": "valeaciprian/php-mvc",
+    "authors": [
+        {
+            "name": "smartcoder",
+            "email": "cipssul@gmail.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "app\\": "."
