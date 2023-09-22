@@ -75,7 +75,6 @@ class Router
         foreach ($params as $key => $value) {
             $$key = $value;
         }
-        var_dump($name);
         ob_start();
         include_once Application::$ROOT_DIR."/views/$view.php";
         return ob_get_clean();

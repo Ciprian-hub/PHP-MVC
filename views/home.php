@@ -1,4 +1,4 @@
 <h1>Home</h1>
 <h3>
-    <?php $name  ?>
+   Welcome <?php echo $name ?>
 </h3>
